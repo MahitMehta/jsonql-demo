@@ -51,10 +51,10 @@
   "resolved" "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz"
   "version" "1.2.1"
 
-"@mahitm/jsonql@^1.0.5":
-  "integrity" "sha512-WILKj3ngDisVmWI8Us192fwgusjuDDH7skjuJm4rhDKCUAamA1aq/xhhpiGiQcBfmcppvcObhURq+w6eNBGz0g=="
-  "resolved" "https://registry.npmjs.org/@mahitm/jsonql/-/jsonql-1.0.5.tgz"
-  "version" "1.0.5"
+"@mahitm/jsonql@^1.1.0":
+  "integrity" "sha512-nK2AdX8bB4Wkr63lJzA293WteW8pPvj+60+lNavGYFWqTnXagWJdxBEo/GUTpWPu8CFGekKg0tduT4cA76lOLQ=="
+  "resolved" "https://registry.npmjs.org/@mahitm/jsonql/-/jsonql-1.1.0.tgz"
+  "version" "1.1.0"
   dependencies:
     "lodash" "^4.17.21"
 

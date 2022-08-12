@@ -9,7 +9,7 @@ export default function handler(
   const body = req.body;
 
   if (!!body && typeof body === "object" && minify) {
-    const mini = new JsonQL().mini(body);
+    const mini = new JsonQL({ links: true }).mini(body);
     res.json(mini);
     return; 
   } else if (!minify) {
